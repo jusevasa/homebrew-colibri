@@ -7,7 +7,7 @@ cask "colibri" do
   desc "Terminal para correr varios agentes de código en pestañas"
   homepage "https://github.com/jusevasa/colibri"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "Colibri.app"
 
