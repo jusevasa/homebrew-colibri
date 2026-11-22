@@ -1,6 +1,6 @@
 cask "colibri" do
-  version "0.2.0-beta.2"
-  sha256 "90c4fb92b5da735abcb63215673214e3290546449cc80af2f59dcad42f4148d6"
+  version "0.2.0-beta.3"
+  sha256 "647bd925f172153bb7d551fe1b861456a33a8fd78d59a87c7e3f91c38b8e683b"
 
   url "https://github.com/jusevasa/colibri/releases/download/v#{version}/Colibri-#{version}.zip"
   name "Colibrí"
